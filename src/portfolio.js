@@ -345,7 +345,7 @@ const blogSection = {
         "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Talks Sections
@@ -382,9 +382,8 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Want to say hi? My Inbox is open for all.",
-  number: "+319-677-0654",
+  subtitle: "Want to say hi? My Inbox is open for all.",
+  number: "+1 319-677-0654",
   email_address: "sukh.erde@gmail.com"
 };
 
